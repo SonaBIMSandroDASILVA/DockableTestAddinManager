@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>DockableTestAddinManager</Name>
+    <Assembly>DockableTestAddinManager\DockableTestAddinManager.dll</Assembly>
+    <AddInId>3C19FAAC-140C-4B24-A1B3-782EB5E242C4</AddInId>
+    <FullClassName>DockableTestAddinManager.App</FullClassName>
+    <VendorId>SONABim</VendorId>
+    <VendorDescription>Plugin test test Dockable.</VendorDescription>
+  </AddIn>
+</RevitAddIns>
+
+
+
+
